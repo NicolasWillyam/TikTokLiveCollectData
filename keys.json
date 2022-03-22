@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avian-safeguard-344607",
+  "private_key_id": "6378986bde5a8ecfc9ee3f8832666eeb95899887",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDOsSeOeQrIGgy+\nPUkfGPWmYcoPDq5rBUW21djWZ6jkzYVwLHau9xsNDvIqsh+DJglQFhxSQA6KNxIP\nTTpxKTO658H0nDSYvRYSQIyxtgVhKiH3JCG3ru7gSetTlfHUQ24iJpmgCfJoc2/k\nv5dQm/v3Z54AlI9wTFxPf3+oS4Nen0ZJsLOnqrbmmRNb1mV1RlNn1aXEgBoNXzhD\n51JGItD0eT7bUFPJkA7o3gRYEeVPUqd2aIbA/tfzrpNFyH2lFd2L6i8kohSnmb/X\nW1V8aCCmOkjgjh6BtSyryIIImrmaO5u+1qD8xhhl+AFZiKKAx0piif3wNopiEcQr\n3LgZuJ3PAgMBAAECggEAEb0ZeHxB5R97NX57/ou9VVyyIy2u4Wdv7ruWovv9fjl3\nOMPQIb76VtoQBYMI+k/y36kuIA74UHtedOq7V8fh9Sn7ttsLFoqv0LwydvP4rTiY\n9qVmsWV1gdFGPYOyX/Wzh4HJkHcaE0XI9hhNS7E/ZCHD6SfW0Zv0FiyKj65/ZUjd\ni1Mknz27f2zf5AKscHSlDEX9Y3fFxkw1BuvSdObsWISOcdCdP5A8NSW+AM6iqc7o\nmTYkr7clkJnnZK6I5ufxrGRyBmBxkSWJsknURSrHtdVARetdh50PW1Z7ULrNgA8+\nbt09J/YgZOKlpBpcSoTEjIFWO+kQO/HxxL4BP+bDxQKBgQDzQZ78IdE5/8QICxdQ\nurvur29nqmWFmOmrIsWBaF4lBsq5/sDRcswA05iIwh6fz1IOURhrCBdNghMZW/sz\nhaaWe2Sx7KkSyT9xNRd3XHdR599FygRkINv008Jg8vFyyrDhv6y+EsJVwaVNVOBT\nrd1kG2sJaTuY+6wuRW4ITGruQwKBgQDZhSi6KwIH8X0SYCCq8hC1YHwyP0hJ8YNO\nCiGMYOcjVxOWTLrh2CqK9ZKIdttsQjwot8UKl54ihXni492Osa6QFAsgGkxZHfSW\ngpuvvrfOMTb7Y2JQcVf6rRZ2UytqrtQBnCM3rU6vUfYlnNZZ72F2+xfSOGhVAm/5\n3Zzcus0HhQKBgGtCFvjzbE7XkLc/NLOa8rymzEd4YbVLnFSiS1XpEAHhgcgLJTf1\nFzCSHCLI/TnX70VyyoJ/Gc9KOGOpJBUurCqUE+1D/bTT2c5v633s3ovV4qPiFJeV\nyYalTIL0/DNyXhXcLy3MFbY8YUe80gDzm7fFQyfuJ6In7l6krISqNUgDAoGAQfdL\nEaJnXEdVGdSDM7Rzcr4PDCH650nR+0HBSNQ+ZI5Mx2D/r+whgsDUroP1KVCw89w/\namXutCNsgm1+TH8AJHufoB25l7Eo8tgrJNIe5e4w8W4Da8fj2YbScBHq8dCRROe4\nGnN5kFu33VJCA0ZAdZfScpNeuKEjmlAl+R7BfQ0CgYB27dYHdaLP89Q4gKmfquW9\nQmAtxSy0gTl1APOrauQfNk8ZtWefMUGlW2cEQCrT2HmzWUhivbCPD1eYqZdAELwW\nHoOQ7tQsCTRy/QkvKqp4DR2+pUHhIfzgOMSQKLokIs2bHKaUUmFdJr0UQXGhQQj0\nSDMO0vt2m12FxO5WXEub1g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "tiktokliveclientaccount@avian-safeguard-344607.iam.gserviceaccount.com",
+  "client_id": "110675527217423071595",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tiktokliveclientaccount%40avian-safeguard-344607.iam.gserviceaccount.com"
+}
